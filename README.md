@@ -17,4 +17,5 @@
 
 Berikut ini tampilan sederhana dari antarmuka berbasis Gradio yang digunakan untuk mengenkripsi dan mendekripsi teks.
 
+![Tampilan Aplikasi](GUI.png)
 
